@@ -1,10 +1,10 @@
 ## Hi there, welcome to my profile 👋
 
-My name is **Gabriel Aragão** and I work as a ✨ support analyst ✨ but I am studying new technologies to work as a dev 😃
+My name is **Gabriel Aragão** and I work as a ✨ support analyst ✨ but I am studying new technologies to work as front-end dev 😃
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ReactJS and its vast library
-- 👯 I’m looking to collaborate on projects and work as a dev
+- 🔭 I’m currently working on Stefanini as Support Analyst
+- 🌱 I’m currently learning ReactJS and its vast library and TypeScript
+- 👯 I’m looking to collaborate on projects and work as a front-end dev
 - ⚡ Fun fact: I like to do physical exercises and play some games
 <!--
 - 🤔 I’m looking for help with ... 
@@ -15,10 +15,11 @@ My name is **Gabriel Aragão** and I work as a ✨ support analyst ✨ but I am 
 
 ## Connect with me:
 <div> 
-  <a href="https://instagram.com/gabrielaragorn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discordapp.com/users/479819880175108116" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gabrielarago4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-arag%C3%A3o-038779163/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabrielarago4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/gabrielaragorn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discordapp.com/users/479819880175108116" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
 </div>
 
 ## Languages and Tools:
