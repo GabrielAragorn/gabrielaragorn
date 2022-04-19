@@ -5,7 +5,7 @@ My name is **Gabriel Aragão** and I work as a ✨ support analyst ✨ but I am 
 - 🔭 I’m currently working on Stefanini as Support Analyst
 - 🌱 I’m currently learning ReactJS and its vast library and TypeScript
 - 👯 I’m looking to collaborate on projects and work as a front-end dev
-- ⚡ Fun fact: I like to do physical exercises and play some games
+- ⚡ Fun fact: I like to workout, read some books, music and play some games
 <!--
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
