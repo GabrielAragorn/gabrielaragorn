@@ -1,11 +1,11 @@
 ## Hi there, welcome to my profile 👋
 
-My name is **Gabriel Aragão** and I work as a ✨ support analyst ✨ but I am studying new technologies to work as front-end dev 😃
+My name is **Gabriel Aragão** and I work as a ✨ QA Analysy ✨ <!-- but I am studying new technologies to work as front-end dev --> 😃
 
-- 🔭 I’m currently working on Stefanini as Support Analyst
+- 🔭 I’m currently working on Tecnisys as an QA Analysy
 - 🌱 I’m currently learning ReactJS and its vast library and TypeScript
 - 👯 I’m looking to collaborate on projects and work as a front-end dev
-- ⚡ Fun fact: I like to workout, read some books, music and play some games
+- ⚡ Fun fact: I like to workout, read some books, listen to music and play some games
 <!--
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
