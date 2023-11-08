@@ -3,7 +3,7 @@
 My name is **Gabriel Aragão** and I work as a ✨ QA Analysy ✨ <!-- but I am studying new technologies to work as front-end dev --> 😃
 
 - 🔭 I’m currently working on Tecnisys as a QA Analysy
-- 🌱 I’m currently learning Cypress to automate tests
+- 🌱 I’m currently learning more Cypress to automate tests and be jedi master on it
 - 👯 I’m looking to collaborate on projects
 - ⚡ Fun fact: I like to workout, read some books, listen to music and play some games
 <!--
